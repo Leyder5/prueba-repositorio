@@ -1,4 +1,4 @@
-# Comandos de Git
+# Comandos de Git nuevos y mejorados 
 
 ## Empezar
 - `git init` = sirve para iniciar un repositorio en la carpeta
